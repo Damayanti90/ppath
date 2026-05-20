@@ -23,3 +23,5 @@ Instructions for execution
       f. g_XGBoost.py
 
       g. h_LightGBM.py
+
+      h. i_clustering.py
