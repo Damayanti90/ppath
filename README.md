@@ -6,7 +6,7 @@ Instructions for execution
 
 2. consolidated_esm2_embeddings.txt is zipped and split into 9 parts. Kindly merge and unzip.
 
-3. set up the environment via requirements.txt
+3. set up the environment via environment.yml.
 
 4. Execute the following .py files.
 
